@@ -2,4 +2,4 @@
 
 1 + "is the loneliest number"
 
-x = "is the loneliest number"
+y = "is the loneliest number"
